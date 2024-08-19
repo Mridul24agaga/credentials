@@ -1,7 +1,7 @@
 [build]
-  publish = "static-files"
+  publish = "."
 
 [[redirects]]
-  from = "/*"
+  from = "/"
   to = "/credentials.py"
   status = 200
