@@ -1,7 +1,7 @@
 [build]
-  publish = "credentials"
+  publish = "."
 
 [[redirects]]
   from = "/"
-  to = "/credentials.py"
+  to = "/"
   status = 200
